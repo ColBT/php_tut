@@ -16,7 +16,7 @@ Instructions:
 
 ______
 
-[phpCollab](https://github.com/btowner01/php_tut/tree/master/phpCollab) - Project collaboration.
+[phpCollab](https://github.com/btowner01/php_tut/tree/master/Project-mgmt/phpCollab) - Project collaboration.
 In order to track my time, I added this php based software, and entered the tasks in line with
 the AgileUP methodology.
 
